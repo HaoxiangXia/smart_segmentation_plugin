@@ -15,7 +15,7 @@ name = "smart_segmentation_plugin"
 config_version = "1.2.0"
 
 # 插件版本；保持默认值即可
-version = "1.1.0"
+version = "1.1.1"
 
 # 是否启用插件；true 开启，false 关闭
 enabled = true
