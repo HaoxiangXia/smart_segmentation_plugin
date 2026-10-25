@@ -1477,7 +1477,6 @@ class SmartSegmentationPlugin(MaiBotPlugin):
                 model_list=[resolved_model_name],
                 max_tokens=max_tokens,
                 temperature=temperature,
-                slow_threshold=30.0,
                 selection_strategy="random",
             ),
             request_type=request_type,
